@@ -1,9 +1,6 @@
 ### Hi there This is Aakash👋
 
-![gif](https://media.tenor.com/images/443682aeb85c05301c37f6d092e19c1f/tenor.gif)
-
-<!--
-**aakash-cse/aakash-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gif](https://media1.giphy.com/media/Ma01OduoNA8dxIVb3V/giphy.gif)
 
 Here are some ideas to get you started:
 
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mail aakashbabu.2000@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: No comments
--->
+
