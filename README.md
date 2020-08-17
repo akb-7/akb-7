@@ -1,6 +1,6 @@
 ### Hi there This is Aakash👋
 
-![gif](https://thumbs.gfycat.com/ConsiderateFlamboyantHawaiianmonkseal-mobile.mp4)
+![gif](https://media.tenor.com/images/443682aeb85c05301c37f6d092e19c1f/tenor.gif)
 
 <!--
 **aakash-cse/aakash-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
