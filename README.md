@@ -1,5 +1,7 @@
 ### Hi there This is Aakash👋
 
+![gif](https://thumbs.gfycat.com/ConsiderateFlamboyantHawaiianmonkseal-mobile.mp4)
+
 <!--
 **aakash-cse/aakash-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
