@@ -1,5 +1,4 @@
-### Hi there This is Aakash
-### From SASTRA UNIVERSITY👋
+### Hi there This is Aakash👋
 
 <!--
 **aakash-cse/aakash-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
