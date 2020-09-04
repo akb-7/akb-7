@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tensorflow,MySQL and GraphQL
 - 👯 I’m looking to collaborate on on any opensource projects or Hackathons.
 - 💬 Ask me your doubts, I am happy to help;
-- 📫 How to reach me: [Telegram]()
+- 📫 How to reach me: [Telegram](https://t.me/me_ak7)
 - 😄 Pronouns: He
 - ⚡ Fun fact: No comments
