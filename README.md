@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="aakash-cse.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 Hi, I'm [Aakash](),Data Science Enthusiast,  🚀
 I am updating all my learning and programming stuffs here..
