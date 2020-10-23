@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 💬 Ask me your doubts, I am happy to help;
 - 📫 How to reach me: [Telegram](https://t.me/me_ak7)
 - 😄 Pronouns: He
-- ⚡ Fun fact: No comments
