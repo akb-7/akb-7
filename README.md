@@ -1,25 +1,32 @@
-### Hi there <a href="https://aakash-cse.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi, I am Aakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I'm [Aakash](),Data Science Enthusiast,  🚀
-I am updating all my learning and programming stuffs here..
+- 🏢 I'm currently pursuing my undergraduate degree from SASTRA University
+- 🎨 Checkout my [portfolio](https://aakash-cse.github.io)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-cse&show_icons=true" alt="aakash-cse" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-cse" alt="aakash-cse" /> </p> 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aakash-cse)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aakashbabu/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ak777)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aakashbabu.2000@gmail.com)
+![](https://komarev.com/ghpvc/?username=aakash-cse&color=blue&style=flat-square&label=Profile+visitors)
 
 **Languages and Tools:** 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c++" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<p>
+  <a href="https://github.com/sudonitin">
+    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=aakash-cse&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Aakash's GitHub stats"/>
+</a>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Deep Learning
-- 🌱 I’m currently learning Tensorflow,MySQL and GraphQL
-- 👯 I’m looking to collaborate on on any opensource projects or Hackathons.
-- 💬 Ask me your doubts, I am happy to help;
-- 📫 How to reach me: [Telegram](https://t.me/me_ak7)
-- 😄 Pronouns: He
