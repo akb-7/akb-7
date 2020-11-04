@@ -14,10 +14,11 @@
   <a href="https://github.com/sudonitin">
     <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=aakash-cse&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Aakash's GitHub stats"/>
 </a>
+  <br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <br />
+  <br /><br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
