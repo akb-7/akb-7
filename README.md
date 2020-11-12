@@ -1,5 +1,5 @@
-### Hi, I am Aakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### Hi, I am Aakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 <p align='left'>
 - 🏢 I'm currently pursuing my undergraduate degree from SASTRA University <br/>
 - 🎨 Checkout my [portfolio](https://aakash-cse.github.io) <br/>
