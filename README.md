@@ -1,7 +1,9 @@
 ### Hi, I am Aakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🏢 I'm currently pursuing my undergraduate degree from SASTRA University
 - 🎨 Checkout my [portfolio](https://aakash-cse.github.io)
+- Currently working on Deep Learning - ANN,CNN,RNN
+- Done some fun filled projects to explore in the field of DATA SCIENCE
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aakash-cse)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aakashbabu/)
