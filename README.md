@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 <p align='left'>
 - 🏢 I'm currently pursuing my undergraduate degree from SASTRA University, Thanjavur<br/>
-  - 🎨 Checkout my <a href = "https://aakash-cse.github.io">portfolio</a> <br/>
+  - 🎨 Checkout my <a href = "https://aakash-cse.github.io" target="_blank">portfolio</a> <br/>
 - Currently working on Deep Learning - ANN,CNN,RNN <br/>
 - Done some fun filled projects to explore in the field of DATA SCIENCE <br/>
 </p>
