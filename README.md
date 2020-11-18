@@ -4,6 +4,7 @@
 - 🏢 I'm currently pursuing my undergraduate degree from SASTRA University, Thanjavur<br/>
   - 🎨 Checkout my <a href = "https://aakash-cse.github.io" target="_blank">portfolio</a> <br/>
 - Currently working on Deep Learning - ANN,CNN,RNN <br/>
+- Exploring the field of Natural Language Processing
 - Done some fun filled projects to explore in the field of DATA SCIENCE <br/>
 </p>
 
