@@ -38,4 +38,3 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   -->
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinamXx&theme=radical" align="right">
