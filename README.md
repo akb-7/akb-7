@@ -1,40 +1,78 @@
-### Hi, I am Aakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
-<p align='left'>
-- 🏢 I'm currently pursuing my undergraduate degree from SASTRA University, Thanjavur<br/>
-  - 🎨 Checkout my <a href = "https://aakash-cse.github.io" target="_blank">portfolio</a> <br/>
-- Currently working on Deep Learning - ANN,CNN,RNN <br/>
-- Exploring the field of Natural Language Processing <br/>
-- Done some fun filled projects to explore in the field of DATA SCIENCE <br/>
-</p>
+### Hi there, I'm [Aakash]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/aakash-cse?style=social) 👋
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aakash-cse)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aakashbabu/)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ak777)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aakashbabu.2000@gmail.com)
-![](https://komarev.com/ghpvc/?username=aakash-cse&color=blue&style=flat-square&label=Profile+visitors)
-
-**Languages and Tools:** 
 <p>
-  <a href="https://github.com/sudonitin">
-    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=aakash-cse&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Aakash's GitHub stats"/>
-</a>
-  <br>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <br /><br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <br />
-  <!--
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  -->
+  <em>
+    I'm a <b>Computer Science Undergraduate</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in Chennai,India.
+  </em>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+ </p>
+
+
+<em>
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I recently started preparing for data structures and algorithm.
+- ⏳ I am constantly learning and keep myself updated with the latest technologies.
+- 🌱 I’m currently learning Natural Language Processing.
+- 🤔 My interests are Data Science, Algorithms and Artificial Intelligence.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 Please email via josh_billion@yahoo.com to reach me.
+- 📝 See my [Resume](https://docs.google.com/document/d/1xOvqyt8naWBC3w1gPhcc6hhVRwMn-61Zqdcu8XelsUU/edit?usp=sharing) to get more info.
+- 🎯Visit my [website](https://aakash-cse.github.io/)
+
+<br/>
+</em>
+
+<hr>
+<div>
+<p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
+**Things I'm good at :fire:**
+
+**Languages:**  Python,C++,Machine Learning,Deep Learning, SQL, HTML, CSS,Java.
+
+**Framework:** Flask, Django.
+**Libraries & Tools:** AWS EC2, AWS S3, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
+
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
+<!--
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>-->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="mongodb"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="django"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 </p>
+</div>
+
+![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=aakash-cse&show_icons=true&hide_border=true)
+
+<br/>
+
+You have finally discovered my Github profile!!
+<br/>
+Please feel free to clone projects and raise issues if you think something could be better.
+<br/>
+Happy Coding!!
+
+
+### My Socials
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/aakash-b-b3379a190/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/aakash-cse) 
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=aakash-cse&style=flat-square)
+
+```python
+
+```
