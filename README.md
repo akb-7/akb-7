@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Natural Language Processing.
 - 🤔 My interests are Data Science, Algorithms and Artificial Intelligence.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 Please email via josh_billion@yahoo.com to reach me.
+- 📫 Please email via aakashbabu.2000@gmail.com to reach me.
 - 📝 See my [Resume](https://docs.google.com/document/d/1xOvqyt8naWBC3w1gPhcc6hhVRwMn-61Zqdcu8XelsUU/edit?usp=sharing) to get more info.
 - 🎯Visit my [website](https://aakash-cse.github.io/)
 
@@ -34,6 +34,7 @@
 **Languages:**  Python,C++,Machine Learning,Deep Learning, SQL, HTML, CSS,Java.
 
 **Framework:** Flask, Django.
+
 **Libraries & Tools:** AWS EC2, AWS S3, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
