@@ -13,7 +13,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I recently started preparing for data structures and algorithm.
-- ⏳ I am constantly learning and keep myself updated with the latest technologies.
+- ⏳ I am constantly learning and keep myself updated with latest technologies.
 - 🌱 I’m currently learning Natural Language Processing.
 - 🤔 My interests are Data Science, Algorithms and Artificial Intelligence.
 - 💬 Ask me about anything, I am happy to help.
