@@ -5,7 +5,7 @@
     I'm a <b>Computer Science Undergraduate</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in Chennai,India.
   </em>
 <!--<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" /> -->
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
+<img align="right" alt="Coder GIF" height=350 width=350 src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
  </p>
 
 
