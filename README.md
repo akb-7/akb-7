@@ -15,7 +15,7 @@
 - 👨🏽‍💻 I recently started preparing for data structures and algorithm.
 - ⏳ I am constantly learning and keep myself updated with latest technologies.
 - 🌱 I’m currently learning Natural Language Processing.
-- 🤔 My interests are Data Science, Algorithms and Artificial Intelligence.
+- 🤔 My interests are Data Structures, Algorithms, ML,DL and Artificial Intelligence.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via aakashbabu.2000@gmail.com to reach me.
 - 📝 See my [Resume](https://docs.google.com/document/d/1xOvqyt8naWBC3w1gPhcc6hhVRwMn-61Zqdcu8XelsUU/edit?usp=sharing) to get more info.
