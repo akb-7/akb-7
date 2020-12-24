@@ -1,4 +1,4 @@
-## Hi there, I'm [Aakash B]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/aakash-cse?style=social) 👋👋
+## Hi there, I'm [Aakash]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/aakash-cse?style=social) 👋👋
 
 <p>
   <em>
