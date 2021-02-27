@@ -11,7 +11,7 @@
 
 <em>
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs**
 
 - 👨🏽‍💻 I recently started preparing for Data structures and Algorithm.
 - ⏳ I am constantly learning and keep myself updated with latest technologies.
