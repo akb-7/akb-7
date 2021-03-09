@@ -1,5 +1,4 @@
-## Hi there, I'm [Aakash B]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/aakash-cse?style=social) 👋👋
-
+## Hi there, I'm [Aakash B]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/aakash-cse?style=social) 👋
 <p>
   <em>
     I'm a <b>Computer Science Undergraduate</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in Chennai,India.
