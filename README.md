@@ -73,7 +73,3 @@ Happy Coding!!
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aakash-cse&style=flat-square)
-
-```python
-
-```
