@@ -1,7 +1,7 @@
-## Hi there, I'm [Aakash B]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/aakash-cse?style=social) 👋
+## Hi there, I'm [Aakash B]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/akb-7?style=social) 👋
 <p>
   <em>
-    I'm a <b>Computer Science Undergraduate</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in Chennai,India.
+    I'm a <b>Computer Science Undergraduate</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer and software developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in Chennai,India.I have interest in Machine Learning, Deep learning and Data Science. 
   </em>
 <!--<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" /> -->
 <img align="right" alt="Coder GIF" height=350 width=350 src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
@@ -14,11 +14,11 @@
 
 - 👨🏽‍💻 I recently started preparing for Data structures and Algorithm.
 - ⏳ I am constantly learning and keep myself updated with latest technologies.
-- 🌱 I’m currently learning Natural Language Processing.
+- 🌱 I’m currently learning Spring Boot.
 - 🤔 My interests are Data Structures, Algorithms, ML,DL and Artificial Intelligence.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via aakashbabu.2000@gmail.com to reach me.
-- 📝 See my [Resume](https://docs.google.com/document/d/1xOvqyt8naWBC3w1gPhcc6hhVRwMn-61Zqdcu8XelsUU/edit?usp=sharing) to get more info.
+- 📝 See my [Resume]() to get more info.
 - 🎯Visit my [website](https://aakash-cse.github.io/)
 
 <br/>
@@ -31,11 +31,11 @@
 
 **Things I'm good at :fire:**
 
-**Languages:**  Python,C++,Machine Learning,Deep Learning, SQL, HTML, CSS,Java.
+**Languages:**  Python,C++,JAVA,Machine Learning,Deep Learning, SQL, HTML, CSS.
 
-**Framework:** Flask, Django.
+**Framework:** Flask, Django, React JS, Node JS.
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
+**Libraries & Tools:** Tensorflow, Pandas, Numpy, Github, Concourse CI.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
 
@@ -56,7 +56,7 @@
 </p>
 </div>
 
-![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=aakash-cse&show_icons=true&hide_border=true)
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=akb-7&show_icons=true&hide_border=true)
 
 <br/>
 
@@ -69,7 +69,7 @@ Happy Coding!!
 
 ### My Socials
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/aakash-b-b3379a190/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/aakash-cse) 
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/aakash-b-b3379a190/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/akb-7) 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aakash-cse&style=flat-square)
